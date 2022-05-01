@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Leonardo/Documents/development/FitnessTracker/app/src/main/res/drawable/bg_button_accent.xml" value="0.343" />
         <entry key="..\:/Users/Leonardo/Documents/development/FitnessTracker/app/src/main/res/drawable/ic_baseline_accessibility_new_24.xml" value="0.305" />
         <entry key="..\:/Users/Leonardo/Documents/development/FitnessTracker/app/src/main/res/layout/activity_imc.xml" value="0.5" />
         <entry key="..\:/Users/Leonardo/Documents/development/FitnessTracker/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
